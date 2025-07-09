@@ -1,7 +1,3 @@
-Here's a clear and well-structured description you can use in your **GitHub README** file for the project **Altlytics: A Real-time Cryptocurrency Price Tracker**. It explains the APIs used, technologies on the front and back end, features, and future plans — all in simple English with symbols and formatting:
-
----
-
 # 🚀 Altlytics: A Real-time Cryptocurrency Price Tracker
 
 **Altlytics** is a user-friendly and visually appealing web application that lets users explore and track real-time cryptocurrency prices, market rankings, and coin details. It is designed with beginners and crypto enthusiasts in mind.
