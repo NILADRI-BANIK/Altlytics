@@ -110,8 +110,6 @@ Feel free to fork this repo, create a new feature branch, and submit a pull requ
 
 This project is for educational/demo purposes and uses publicly available APIs.
 
----
 
-Let me know if you'd like me to turn this into a properly formatted `README.md` file or help you upload it to your GitHub repo.
 
 
